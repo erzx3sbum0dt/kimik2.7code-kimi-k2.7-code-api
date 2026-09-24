@@ -2,7 +2,7 @@
 
 > **input $0.7429; output $3.083** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-b3df96)** · **[Get an API key](https://go.apimart.ai/k-771402)**
 
 Everything here refers to **kimi-k2.7-code** — also written **kimik2.7code** or **kimi k2.7 code**.
 
